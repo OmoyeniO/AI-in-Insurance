@@ -1,1 +1,1 @@
-# AI-in-Insurance
+# AI In Insurance
