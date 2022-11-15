@@ -6,7 +6,7 @@
 <p align="center">
   
   <a href="https://github.com/OmoyeniO/AI-in-Insurance">
-    <img src="ai_insurance.png" alt="Logo", width = 500 >
+    <img src="ai_insurance.png" alt="Logo", width = 800 >
   </a>
   
 </p>
