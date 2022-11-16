@@ -24,12 +24,12 @@ With the power of the cloud and today’s rapidly changing technologies, forward
 
 ### Key areas of AI in Insurance:
  
-•	Claim processing
-•	Client Journey
-•	Fraud Detection
-•	Customer retention and churn prediction
-•	Operation process optimization
-•	Risk Assessment 
+* Claim processing
+* Client Journey
+* Fraud Detection
+* Customer retention and churn prediction
+* Operation process optimization
+* Risk Assessment 
 
 
 As we move forward in this project, we will streamline our focus to AI for Insurance Fraud detection
