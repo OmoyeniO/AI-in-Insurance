@@ -38,8 +38,9 @@ As we move forward in this project, we will streamline our focus to AI for Insur
 ## File Description
 * OgundipeO-ShittuO-GAProject.docx  Project doccumentation
 * insurance_claims.csv   The Dataset used
-* 
+* insurance-fraud-detection-using-12-models  Python file
+* Omoyeni_Ogundipe_Shittu_Olayemi_Presentation    Presentation slides
 
-The dataset is gotten from kaggle
+The dataset is gotten from (kaggle)[https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data]
 
 
