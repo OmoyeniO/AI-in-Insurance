@@ -32,7 +32,33 @@ With the power of the cloud and today’s rapidly changing technologies, forward
 * Risk Assessment 
 
 
-Focus on AI for Insurance Fraud detection
+This Project Focuses on AI as a tool for Insurance Fraud detection
+
+
+
+## Table of Contents
+
+### Data Preprocessing
+* Visualizing Missing values
+* Handling Missing Values
+* Encoding Categorical columns
+* Outliers Detection
+
+### Algorithms Used 
+* Support Vector Classifier
+* Knn
+* Decision Tree Classifier
+* Random Forest Classifier
+* Ada Boost Classifier
+* Gradient Boosting Classifier
+* Stochastic Gradient Boosting (SGB)
+* XgBoost
+* Cat Boost Classifier
+* Extra Trees Classifier
+* LGBM Classifier
+* Voting Classifier
+
+### Models Comparison
 
 
 ## File Description
